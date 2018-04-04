@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\bin\Debug\MySql.Data.dll
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\bin\Debug\MySql.Data.xml
+C:\Users\Admin\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
